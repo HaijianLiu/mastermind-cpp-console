@@ -288,5 +288,3 @@ __pycache__/
 *.xsd.cs
 
 *.out
-
-.DS_Store
